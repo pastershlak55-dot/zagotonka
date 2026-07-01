@@ -8,7 +8,7 @@ public class NextLVL : MonoBehaviour
 
     public void QuitGame()
     {
-        string redirectUrl = "https://hotnovels.eu/trial_2";
+        string redirectUrl = "https://hotnovels.eu/trial2";
 
 #if UNITY_WEBGL && !UNITY_EDITOR
         RedirectToUrl(redirectUrl);

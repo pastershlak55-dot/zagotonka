@@ -9,9 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9e00e0762ea042689b342f010d1d316d, type: 3}
-  m_Name: ProjectStats
+  m_Script: {fileID: 11500000, guid: b1487f5d688e4f94f828f879d599dbdc, type: 3}
+  m_Name: Built In Data_PlayerDataGroupSchema
   m_EditorClassIdentifier: 
-  TotalScriptsCount: 1
-  TotalCommandCount: 227
-  TotalWordsCount: 941
+  m_Group: {fileID: 11400000, guid: 871d84ef897eea945afae098f8f8dff3, type: 2}
+  m_IncludeResourcesFolders: 1
+  m_IncludeBuildSettingsScenes: 1

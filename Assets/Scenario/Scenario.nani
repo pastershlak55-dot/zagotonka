@@ -19,6 +19,10 @@
 
 @set j="???"
 @set k="???"
+@back start
+@choice "Кликни" gosub:.A1
+@stop
+# A1
 
 ; Музыка и фон
 @bgm intro_rampage volume:1 time:1

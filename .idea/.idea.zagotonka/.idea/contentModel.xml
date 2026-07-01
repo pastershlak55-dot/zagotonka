@@ -17,9 +17,9 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="Exit.cs" t="Include" />
           <e p="MyInitializationUI.cs" t="Include" />
           <e p="NextLVL.cs" t="Include" />
-          <e p="QuitHandler.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Fonts" t="Include">

@@ -9,9 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9e00e0762ea042689b342f010d1d316d, type: 3}
-  m_Name: ProjectStats
+  m_Script: {fileID: 11500000, guid: 3a189bb168d8d90478a09ea08c2f3d72, type: 3}
+  m_Name: DefaultObject
   m_EditorClassIdentifier: 
-  TotalScriptsCount: 1
-  TotalCommandCount: 227
-  TotalWordsCount: 941
+  m_AddressableAssetSettingsGuid: badc05fc2fda2094aa0a8f76e9f313f2
