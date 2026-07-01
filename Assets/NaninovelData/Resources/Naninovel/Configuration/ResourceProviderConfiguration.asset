@@ -22,6 +22,6 @@ MonoBehaviour:
   LabelByScripts: 0
   GroupByCategory: 0
   ExtraLabels: []
-  LocalRootPath: '%DATA%/Resources'
+  LocalRootPath: 
   VideoStreamExtension: .mp4
-  ProjectRootPath: Naninovel
+  ProjectRootPath: 

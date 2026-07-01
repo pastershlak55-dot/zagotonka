@@ -144,8 +144,232 @@ MonoBehaviour:
     - name: ScriptNavigatorUI
       pathPrefix: UI
       guid: 735d6aa767879aa469134858c5b2f0a7
+    - name: Init
+      pathPrefix: UI
+      guid: 19ef461e9c8dc9143a0d28d576cd78cf
   - Id: Scripts
     Resources:
     - name: Scenario
       pathPrefix: Scripts
       guid: 1922b48f2ca2e7b46a815fd971a8769a
+  - Id: Backgrounds/90f72f1a-d25f-482b-964c-3d650eaaf259
+    Resources:
+    - name: e1_1
+      pathPrefix: Backgrounds/MainBackground
+      guid: 05dd4e5630b157f4e8fae4d67ffdcbaa
+    - name: e1_2
+      pathPrefix: Backgrounds/MainBackground
+      guid: 7b1e91ff32362e94ea2d5364bb2580b8
+    - name: e1_3
+      pathPrefix: Backgrounds/MainBackground
+      guid: 798ba5cdcadc8864b89df3c14e5ddc7e
+    - name: e1_4
+      pathPrefix: Backgrounds/MainBackground
+      guid: ee2695c0c31e15b498462df9787a17a1
+    - name: e1_5
+      pathPrefix: Backgrounds/MainBackground
+      guid: 62f1996db0ccbf748bd8a3c01bc43b61
+    - name: e1_6
+      pathPrefix: Backgrounds/MainBackground
+      guid: 35d24798d59e8ee4881a3f6258ce20ee
+    - name: e1_9
+      pathPrefix: Backgrounds/MainBackground
+      guid: f4fa0ff5fc7b1a046b54a147898a33b4
+    - name: e1_10
+      pathPrefix: Backgrounds/MainBackground
+      guid: a9459180fe5bdf54580c476dc92f6856
+    - name: e1_11
+      pathPrefix: Backgrounds/MainBackground
+      guid: 00190f22574caa245b4831b3c7f658e3
+    - name: e1_12
+      pathPrefix: Backgrounds/MainBackground
+      guid: 1aff8b7d952e7c64db9d2e3caba0cffc
+    - name: e1_13
+      pathPrefix: Backgrounds/MainBackground
+      guid: 0c4c44421f56d6a459a60ac75c86a728
+    - name: e1_17
+      pathPrefix: Backgrounds/MainBackground
+      guid: 025345949614c8e44b75fe12534ebd4d
+    - name: e1_18
+      pathPrefix: Backgrounds/MainBackground
+      guid: 9b9b67f794a04c94587be36fc2d80636
+    - name: e1_19
+      pathPrefix: Backgrounds/MainBackground
+      guid: cc0f3ef0faea12a41b474ff39104627d
+    - name: e1_20
+      pathPrefix: Backgrounds/MainBackground
+      guid: 7b4fc7d886b485c47a0ea66dc31eb4da
+    - name: e1_20_1
+      pathPrefix: Backgrounds/MainBackground
+      guid: 63ca5234d1f24bb4b9a2135f963f995b
+    - name: e1_21
+      pathPrefix: Backgrounds/MainBackground
+      guid: b15ed4b128567814d83c00c5e5417558
+    - name: e1_22
+      pathPrefix: Backgrounds/MainBackground
+      guid: 9969a78f3e5c5a74294b5f4c0eb08ea5
+    - name: e1_23
+      pathPrefix: Backgrounds/MainBackground
+      guid: d14a19b89b05d0341bb73b29c89badfc
+    - name: e1_24
+      pathPrefix: Backgrounds/MainBackground
+      guid: 500797e7e83f10f458fb83eeaedf54d3
+    - name: e1_25
+      pathPrefix: Backgrounds/MainBackground
+      guid: 829c2921c55cbb346a2b8b31648aeea5
+    - name: e1_26
+      pathPrefix: Backgrounds/MainBackground
+      guid: 549af5887b6801c43b1b40a64d0aa4ef
+    - name: e1_27
+      pathPrefix: Backgrounds/MainBackground
+      guid: c802497d18ee0984a89931f1bffd0c9b
+    - name: e1_27_1
+      pathPrefix: Backgrounds/MainBackground
+      guid: 8ba85163f46726445b3d82b1eb99f0ff
+    - name: e1_28
+      pathPrefix: Backgrounds/MainBackground
+      guid: c7b8793d5450cb54c88b72cd19be5020
+    - name: e1_29
+      pathPrefix: Backgrounds/MainBackground
+      guid: a6c6a7e1ac015b544a31929a089d51c7
+    - name: e1_30
+      pathPrefix: Backgrounds/MainBackground
+      guid: 09a1ce8c2545d7c4d9068c6cd19dbb68
+    - name: e1_31
+      pathPrefix: Backgrounds/MainBackground
+      guid: ab423c8764c378a499343392cd8f49fd
+    - name: e1_32
+      pathPrefix: Backgrounds/MainBackground
+      guid: 422c00169294d214b8024076ba1a7061
+    - name: e1_33
+      pathPrefix: Backgrounds/MainBackground
+      guid: bd653493bc56ce04dbf71e1a42479213
+    - name: e1_34
+      pathPrefix: Backgrounds/MainBackground
+      guid: f0c73ce7a1139d547b5fded755675741
+    - name: e1_35
+      pathPrefix: Backgrounds/MainBackground
+      guid: c710cc660a5e30e4092dd5e4ee29cd14
+    - name: e1_36
+      pathPrefix: Backgrounds/MainBackground
+      guid: d263a867685071341aeff77396efb335
+    - name: e1_37
+      pathPrefix: Backgrounds/MainBackground
+      guid: 9fd123501ce05204e8d4fab1933b04f7
+    - name: e1_38
+      pathPrefix: Backgrounds/MainBackground
+      guid: caf600e9226b3284db8c884968a52b66
+    - name: e1_39_1
+      pathPrefix: Backgrounds/MainBackground
+      guid: 7a220e57b95c0274ca271ec358a47fa0
+    - name: e1_39_2
+      pathPrefix: Backgrounds/MainBackground
+      guid: ceb6b119cd51c3e49af63e0341c16d40
+    - name: e1_40
+      pathPrefix: Backgrounds/MainBackground
+      guid: f12d6640a8b0f6141858ccd3fdd28eb0
+    - name: e1_41
+      pathPrefix: Backgrounds/MainBackground
+      guid: b3a36abb917a63f47a65552a6103408e
+    - name: e1_42
+      pathPrefix: Backgrounds/MainBackground
+      guid: 3563cae34c217124e8e94f11f8391d78
+    - name: e1_42_1
+      pathPrefix: Backgrounds/MainBackground
+      guid: c5cce4e8add69324cb557ad6734c0291
+    - name: e1_43
+      pathPrefix: Backgrounds/MainBackground
+      guid: 37693f52341a7ab4fb021ed3b0203e45
+    - name: e1_44
+      pathPrefix: Backgrounds/MainBackground
+      guid: d8d05ce933b795d4aa573de3095aab71
+    - name: e1_45
+      pathPrefix: Backgrounds/MainBackground
+      guid: e54c11de02088694a90761cd3752295f
+    - name: e1_46
+      pathPrefix: Backgrounds/MainBackground
+      guid: cf90d45b4bb1b5541ac30467dff60ae3
+    - name: e1_47
+      pathPrefix: Backgrounds/MainBackground
+      guid: 3fd551db6b7ef5b4e8a8930e887fc094
+    - name: e1_48
+      pathPrefix: Backgrounds/MainBackground
+      guid: dd785ac68967ea747adce1da6bb03a36
+    - name: e1_49
+      pathPrefix: Backgrounds/MainBackground
+      guid: 55fceb0345fd0f14d9b9d470b0c20857
+    - name: e1_50
+      pathPrefix: Backgrounds/MainBackground
+      guid: 2459d2be2c9b7e748b5cee87f5bbd1e6
+    - name: e1_51
+      pathPrefix: Backgrounds/MainBackground
+      guid: 636f03cac3f6a9443a051d3196afe5e4
+    - name: ep1_intro
+      pathPrefix: Backgrounds/MainBackground
+      guid: 83fac934b1a731c4fb5a4af96d5906fe
+    - name: e1_39
+      pathPrefix: Backgrounds/MainBackground
+      guid: fd29e5a4644283a4795312dc8d377121
+    - name: next
+      pathPrefix: Backgrounds/MainBackground
+      guid: af4d5b97fd7a72545b5b38448ce09f23
+  - Id: Audio
+    Resources:
+    - name: intro_rampage
+      pathPrefix: Audio
+      guid: 4c511d80aac3a38488005b40fcaa7443
+    - name: suburban
+      pathPrefix: Audio
+      guid: 99583605097d0c647bd37d728607962a
+    - name: sve
+      pathPrefix: Audio
+      guid: 1aad64141dee86a4799aa2f0ff608894
+  - Id: Movies
+    Resources:
+    - name: e1a_0
+      pathPrefix: Movies
+      guid: e4ab90013a7d11742aad636b184d0f08
+    - name: e1a_0_1
+      pathPrefix: Movies
+      guid: c17d1596f8c4580479e71ade2ffda84c
+    - name: e1a_1_1
+      pathPrefix: Movies
+      guid: 4cbd6dc0a83638f4e84b6ebc941621c1
+    - name: e1a_2
+      pathPrefix: Movies
+      guid: d9a4c5853949e8b4ba4ce326f6f78f21
+    - name: e1a_3
+      pathPrefix: Movies
+      guid: 41f7aeab519ba2747b35d50a301361fd
+    - name: e1a_4
+      pathPrefix: Movies
+      guid: d7dfb41ee0d7135448efce9cd31a173e
+    - name: e1a_4_1
+      pathPrefix: Movies
+      guid: 84145551a08ab164cb0a871d5b489152
+    - name: e1a_4_2
+      pathPrefix: Movies
+      guid: cdbade9f844420c46a8eb074aff7df85
+    - name: e1a_4_3
+      pathPrefix: Movies
+      guid: dc3347e12336c604ea9fce74bbb45704
+    - name: e1a_5
+      pathPrefix: Movies
+      guid: c2ab1bcaed4ccf248b51cb45b281d522
+    - name: e1a_1
+      pathPrefix: Movies
+      guid: 361c6338c1757b041914db764d18b8e7
+  - Id: Characters/420d88c8-2d87-42db-b868-be59a2be4fa1
+    Resources: []
+  - Id: Characters/16123f2c-5d81-4249-a17a-a537d3724504
+    Resources: []
+  - Id: Characters/f749a966-58f6-432c-af33-dd6956f802ae
+    Resources: []
+  - Id: Characters/9bd4ff83-1f4d-48c9-abe6-a77d80961bd8
+    Resources: []
+  - Id: Characters/3057a98c-c262-453f-81d1-697f18086111
+    Resources: []
+  - Id: Characters/f4df2aaa-501f-46c7-8cef-7d01ddd8e16f
+    Resources: []
+  - Id: Characters/f90aa52d-bbcb-45dc-a2a4-3e737bef0217
+    Resources: []

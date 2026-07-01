@@ -20,7 +20,7 @@ MonoBehaviour:
   InitializeOnApplicationLoad: 1
   SceneIndependent: 1
   ShowInitializationUI: 1
-  CustomInitializationUI: {fileID: 0}
+  CustomInitializationUI: {fileID: 1033892620745258375, guid: afea8d21583d69947abc3c35e3d1c697, type: 3}
   EnableBridging: 1
   AutoGenerateMetadata: 1
   NaninovelProjectRoot: 
